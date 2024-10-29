@@ -1,4 +1,4 @@
 ## medical dashboard v1
 
-Front end: wip
-Back end: wip
+Front end: React - wip
+Back end: cloudflare integration - wip
